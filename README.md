@@ -1,6 +1,6 @@
 # Resumen de Base de Datos (LaTeX)
 
-Este repositorio contiene un **resumen de la materia de Bases de Datos** en formato LaTeX.  
+Este repositorio contiene un **Apunte** para el final de Bases de Datos.  
 Incluye:
 
 - `Resumen_BD.pdf`: el documento compilado listo para leer.
