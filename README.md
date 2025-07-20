@@ -5,3 +5,6 @@ Incluye:
 
 - `Resumen_BD.pdf`: el documento compilado listo para leer.
 - `Resumen_BD.zip`: archivo comprimido con **todos los archivos fuente** (`.tex`, bibliografía, imágenes, estilos, etc.) para que puedas editar y recompilar el resumen.
+
+
+Basado en las teoricas, las practicas y este resumen https://github.com/Rindoresu/Edicion-Resumen-Bases-2022. 
