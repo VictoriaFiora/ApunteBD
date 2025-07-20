@@ -1,4 +1,4 @@
-# Resumen de Base de Datos (LaTeX)
+# Apunte de Base de Datos (LaTeX)
 
 Este repositorio contiene un **Apunte** para el final de Bases de Datos.  
 Incluye:
